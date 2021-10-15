@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class S19_StudentDetailsRegularEx {
+public class S19_StudentDetailsRegEx {
 	public static void main(String[] args) {
 		 Student students[] = new Student[5];
 		 Scanner sc = new Scanner(System.in);

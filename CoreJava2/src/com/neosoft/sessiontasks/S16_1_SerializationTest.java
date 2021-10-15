@@ -7,6 +7,8 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
+
+
 public class S16_1_SerializationTest {
 	public static void main(String[] args) {
 		List<Trainer> trainers = new ArrayList<Trainer>(); //Adds specific type of elements : Trainer

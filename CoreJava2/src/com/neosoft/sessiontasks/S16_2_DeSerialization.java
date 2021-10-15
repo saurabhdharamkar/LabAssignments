@@ -8,7 +8,6 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.neosoft.sessiontasks.Trainer;
 
 public class S16_2_DeSerialization {
 	public static void main(String[] args) {
