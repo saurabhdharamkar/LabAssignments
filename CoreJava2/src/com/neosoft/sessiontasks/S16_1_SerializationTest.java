@@ -29,7 +29,10 @@ public class S16_1_SerializationTest {
 			for(Trainer trainer:trainers) {
 				oos.writeObject(trainer);
 				System.out.println("Serialization Done!");
+				//trainers.stream().filter(tr->tr.getSalary().CompareTo(tr.getSalary())).forEach(tr->System.out.print(tr)));
 			}
+			
+			
 			
 		}
 		catch(Exception e) {
